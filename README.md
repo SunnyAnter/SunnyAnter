@@ -1,6 +1,6 @@
 ### Hi there, I'm Sunny 👋
 
-##I'm a Passionate and skilled Full Stack Developer with a strong emphasis on front-end design and development. With a deep understanding of JavaScript, TypeScript, and the latest front-end frameworks like React, Tailwind CSS, and ShadCN, I create engaging and responsive user interfaces that provide exceptional user experiences.
+I'm a Passionate and skilled Full Stack Developer with a strong emphasis on front-end design and development. With a deep understanding of JavaScript, TypeScript, and the latest front-end frameworks like React, Tailwind CSS, and ShadCN, I create engaging and responsive user interfaces that provide exceptional user experiences.
 
 In addition to my front-end expertise, I am proficient in back-end development, leveraging Express and Mongoose to build robust and scalable server-side applications. My versatility extends to serverless architectures, where I use Next.js to deliver efficient, reliable, and modern web solutions.
 
