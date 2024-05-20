@@ -51,6 +51,8 @@ In addition to my front-end expertise, I am proficient in back-end development, 
 [Shadcn-url]: https://ui.shadcn.com/
 [Shadcn]: https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge
 
+![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunnyAnter&show_icons=true&theme=radical)
+
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
